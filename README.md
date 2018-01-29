@@ -1,0 +1,48 @@
+CURRICULUM VITAE
+IGOR ZUBKOV
+42a/32 Ovnatanyana str, Donetsk 83017, Ukraine
+Mobile Phone: +38-(063)-743-44-09, E-mail: igor.zubkov@gmail.com Jabber: igor.zubkov@gmail.com, Skype: theicesik
+    EDUCATION
+      1991 – 1999
+   Donetsk High School #95
+   Summer 2006
+ Donetsk Christian University
+Intensive English Program
+   WORK EXPERIENCE
+        October – December 2003
+ Ministry of Internal Affairs, Donetsk region (Ukraine)
+Developer
+Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services.
+   March – May 2004
+   Armiro Ltd.
+PHP Developer
+Linux, Apache, MySQL, PHP.
+   July 2004 – July 2005
+ Research & Development Production Enterprise "Ecoindustry"
+PHP Developer and system administrator
+Developing and supporting web site, supporting e-mail server, FreeBSD, Apache, PHP, Drupal.
+   December 2005 – February 2006
+   MSL Ltd.
+System administrator
+Linux, Cisco
+    March 2006 – September 2007
+  USDSoftware Ltd.
+System administrator and php developer
+Redhat Enterprise Linux, Apache, MySQL, PHP
+    October – December 2007
+ Etersoft Ltd.
+Developer
+Building and maintaining NX stuff for ALT Linux distribution.
+     2008 year – Present
+   Freelancer
+    RECENT PROJECTS
+    Prometheus2.0. Live: http://packages.altlinux.org/ and code: https://github.com/biow0lf/prometheus2.0. Ruby on Rails 3.0, PostgreSQL, rspec, cucumber, sphinx Developed from scratch.
+Getsocio. https://getsocio.com/. Groupon clone. Supporting, refactoring and developing code. Ruby on Rails 2.3, rspec.
+     
+     AdvanceClaim. http://advanceclaim.com/. Web based medical billing software. Ruby On Rails 2.3, cucumber Writing cucumber features, refactoring and developing.
+Updated Aug/22/2011 Igor Zubkov
+    MISC
+    ALT Linux
+Team member and developer.
+Github
+https://github.com/biow0lf
