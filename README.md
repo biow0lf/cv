@@ -1,16 +1,16 @@
-##### *CURRICULUM VITAE*
+#### *CURRICULUM VITAE*
 
-###### *Igor Zubkov*
+##### *Igor Zubkov*
 
-Ukraine
+**Ukraine**
 
-Mobile Phone/Viber/Telegram: +38-(063)-743-44-09
+**Mobile Phone/Viber/Telegram:** +38-(063)-743-44-09
 
-E-mail: igor.zubkov@gmail.com
+**E-mail:** igor.zubkov@gmail.com
 
-Github: https://github.com/biow0lf
+**GitHub:** https://github.com/biow0lf
 
-LinkedIn: https://www.linkedin.com/in/igorzubkov/
+**LinkedIn:** https://www.linkedin.com/in/igorzubkov/
 
 | EDUCATION | |
 |-----------|-|
