@@ -25,7 +25,10 @@
 | **_December 2005 – February 2006_** | **MSL Ltd.**<br>**System administrator**<br>Linux, Cisco |
 | **_March 2006 – September 2007_** | **USDSoftware Ltd.**<br>**System administrator and php developer**<br>Redhat Enterprise Linux, Apache, MySQL, PHP |
 | **_October – December 2007_** | **Etersoft Ltd.**<br>**Developer**<br>Building and maintaining NX stuff for ALT Linux distribution. |
-| **_2008 year – Present_** | **Freelancer** |
+| **_2008 year – June 2013_** | **Freelancer** |
+| **_July 2013 - November 2014_** | **CloudLinux Inc.** |
+| **_May 2015 - Present_** | **MLSDev Inc.** |
+
 
 
     RECENT PROJECTS
