@@ -27,7 +27,7 @@
 | **_October – December 2007_** | **Etersoft Ltd.**<br>**Developer**<br>Building and maintaining NX stuff for ALT Linux distribution. |
 | **_2008 year – June 2013_** | **Freelancer** |
 | **_July 2013 - November 2014_** | **CloudLinux Inc.**<br>**Software Developer**<br>Building Linux distribution **CloudLinux 7**. Building ruby/python packages. Building build-system. |
-| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer. |
+| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
 
 
 
