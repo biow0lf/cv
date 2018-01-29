@@ -1,7 +1,17 @@
-CURRICULUM VITAE
-IGOR ZUBKOV
-42a/32 Ovnatanyana str, Donetsk 83017, Ukraine
-Mobile Phone: +38-(063)-743-44-09, E-mail: igor.zubkov@gmail.com Jabber: igor.zubkov@gmail.com, Skype: theicesik
+*CURRICULUM VITAE*
+==================
+
+*IGOR ZUBKOV*
+=============
+
+Ukraine
+
+Mobile Phone/Viber/Telegram: +38-(063)-743-44-09
+
+E-mail: igor.zubkov@gmail.com
+
+
+
     EDUCATION
       1991 – 1999
    Donetsk High School #95
