@@ -1,6 +1,6 @@
-# *CURRICULUM VITAE*
+##### *CURRICULUM VITAE*
 
-## *Igor Zubkov*
+###### *Igor Zubkov*
 
 Ukraine
 
@@ -8,11 +8,14 @@ Mobile Phone/Viber/Telegram: +38-(063)-743-44-09
 
 E-mail: igor.zubkov@gmail.com
 
-| EDUCATION   |                                                               |
-|-------------|---------------------------------------------------------------|
-| 1991 – 1999 | Donetsk High School #95                                       |
-| Summer 2006 | **Donetsk Christian University**<br>Intensive English Program |
+| EDUCATION   | |
+|-------------|-|
+| **_1991 – 1999_** | Donetsk High School #95 |
+| **_Summer 2006_** | **Donetsk Christian University**<br>Intensive English Program |
 
+| WORK EXPERIENCE | |
+|-----------------|-|
+| **_October – December 2003_** | |
 
    WORK EXPERIENCE
         October – December 2003
