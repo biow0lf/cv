@@ -35,6 +35,6 @@
 |------|------------|
 | <a href="https://github.com/biow0lf/redmine_landing_page">redmine_landing_page<a> | Landing Page plugin for redmine.<br>Redmine. (27 stars!) |
 | <a href="https://github.com/biow0lf/eve_online">eve_online</a> | EveOnline Ruby API library for ESI.<br>Ruby, RSpec. |
-| <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</> | Web2.0 interface for RPM database.<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
+| <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</a> | Web2.0 interface for RPM database.<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
 
 **Updated Jan/29/2018**
