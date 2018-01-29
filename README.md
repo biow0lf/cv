@@ -8,14 +8,14 @@ Mobile Phone/Viber/Telegram: +38-(063)-743-44-09
 
 E-mail: igor.zubkov@gmail.com
 
-| EDUCATION   | |
-|-------------|-|
+| EDUCATION | |
+|-----------|-|
 | **_1991 – 1999_** | Donetsk High School #95 |
 | **_Summer 2006_** | **Donetsk Christian University**<br>Intensive English Program |
 
 | WORK EXPERIENCE | |
 |-----------------|-|
-| **_October – December 2003_** | |
+| **_October – December 2003_** | **Ministry of Internal Affairs, Donetsk region (Ukraine)**<br>**Developer**<br>Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services. |
 
    WORK EXPERIENCE
         October – December 2003
