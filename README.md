@@ -26,8 +26,8 @@
 | **_March 2006 – September 2007_** | **USDSoftware Ltd.**<br>**System administrator and php developer**<br>Redhat Enterprise Linux, Apache, MySQL, PHP |
 | **_October – December 2007_** | **Etersoft Ltd.**<br>**Developer**<br>Building and maintaining NX stuff for ALT Linux distribution. |
 | **_2008 year – June 2013_** | **Freelancer** |
-| **_July 2013 - November 2014_** | **CloudLinux Inc.** |
-| **_May 2015 - Present_** | **MLSDev Inc.** |
+| **_July 2013 - November 2014_** | **CloudLinux Inc.**<br>**Software Developer**<br>Building Linux distribution **CloudLinux 7**. Building ruby/python packages. Building build-system. |
+| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer. |
 
 
 
