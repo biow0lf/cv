@@ -16,20 +16,11 @@ E-mail: igor.zubkov@gmail.com
 | WORK EXPERIENCE | |
 |-----------------|-|
 | **_October – December 2003_** | **Ministry of Internal Affairs, Donetsk region (Ukraine)**<br>**Developer**<br>Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services. |
+| **_March – May 2004_** | **Armiro Ltd.**<br>**PHP Developer**<br>Linux, Apache, MySQL, PHP. |
+| **_July 2004 – July 2005_** | **Research & Development Production Enterprise "Ecoindustry"**<br>**PHP Developer and system administrator**<br>Developing and supporting web site, supporting e-mail server, FreeBSD, Apache, PHP, Drupal. |
+
 
    WORK EXPERIENCE
-        October – December 2003
- Ministry of Internal Affairs, Donetsk region (Ukraine)
-Developer
-Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services.
-   March – May 2004
-   Armiro Ltd.
-PHP Developer
-Linux, Apache, MySQL, PHP.
-   July 2004 – July 2005
- Research & Development Production Enterprise "Ecoindustry"
-PHP Developer and system administrator
-Developing and supporting web site, supporting e-mail server, FreeBSD, Apache, PHP, Drupal.
    December 2005 – February 2006
    MSL Ltd.
 System administrator
