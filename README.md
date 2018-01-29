@@ -1,8 +1,6 @@
-*CURRICULUM VITAE*
-==================
+# <center>*CURRICULUM VITAE*</center>
 
-*IGOR ZUBKOV*
-=============
+## *Igor Zubkov*
 
 Ukraine
 
