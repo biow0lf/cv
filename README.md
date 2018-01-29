@@ -27,8 +27,14 @@
 | **_October – December 2007_** | **Etersoft Ltd.**<br>**Developer**<br>Building and maintaining NX stuff for ALT Linux distribution. |
 | **_2008 year – June 2013_** | **Freelancer** |
 | **_July 2013 - November 2014_** | **CloudLinux Inc.**<br>**Software Developer**<br>Building Linux distribution **CloudLinux 7**. Building ruby/python packages. Building build-system. |
-| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
+| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch, Swagger, iOS push notification and in-app purchases.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
 
+##### Open Source
+
+| Name | Description |
+|------|------------|
+| <a href="https://github.com/biow0lf/redmine_landing_page">redmine_landing_page<a> | Landing Page plugin for redmine.<br>Redmine. (27 stars!) |
+| <a href="https://github.com/biow0lf/eve_online">eve_online</a> | EveOnline Ruby API library for ESI.<br>Ruby, RSpec. |
 
 
     RECENT PROJECTS
