@@ -35,14 +35,6 @@
 |------|------------|
 | <a href="https://github.com/biow0lf/redmine_landing_page">redmine_landing_page<a> | Landing Page plugin for redmine.<br>Redmine. (27 stars!) |
 | <a href="https://github.com/biow0lf/eve_online">eve_online</a> | EveOnline Ruby API library for ESI.<br>Ruby, RSpec. |
+| <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</> | Web2.0 interface for RPM database.<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
 
-
-    RECENT PROJECTS
-    Prometheus2.0. Live: http://packages.altlinux.org/ and code: https://github.com/biow0lf/prometheus2.0. Ruby on Rails 3.0, PostgreSQL, rspec, cucumber, sphinx Developed from scratch.
-Getsocio. https://getsocio.com/. Groupon clone. Supporting, refactoring and developing code. Ruby on Rails 2.3, rspec.
-     
-     AdvanceClaim. http://advanceclaim.com/. Web based medical billing software. Ruby On Rails 2.3, cucumber Writing cucumber features, refactoring and developing.
-Updated Aug/22/2011 Igor Zubkov
-    MISC
-    ALT Linux
-Team member and developer.
+**Updated Jan/29/2018**
