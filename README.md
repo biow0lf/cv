@@ -27,19 +27,19 @@
 | **_October – December 2007_** | **Etersoft Ltd.**<br>**Developer**<br>Building and maintaining NX stuff for ALT Linux distribution. |
 | **_2008 year – June 2013_** | **Freelancer** |
 | **_July 2013 - November 2014_** | **CloudLinux Inc.**<br>**Software Developer**<br>Building Linux distribution **CloudLinux 7**. Building ruby/python packages. Building build-system. |
-| **_May 2015 - Present_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch, Swagger, iOS push notification and in-app purchases.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
-| ** ? ** | **Rademade Inc.**<br>Ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com |
+| **_May 2015 - Feb 2018_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch, Swagger, iOS push notification and in-app purchases.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
+| **_Mar 2018 - Present_** | **Rademade Inc.**<br>Ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com, app.spitche.com, monarome.com.ua |
 
 ##### Open Source
 
 | Name | Description |
 |------|------------|
 | <a href="https://github.com/biow0lf/redmine_landing_page">redmine_landing_page<a> | **Landing Page plugin for redmine.**<br>Redmine. (27 stars!) |
-| <a href="https://github.com/biow0lf/eve_online">eve_online</a> | **EveOnline Ruby API library for ESI.**<br>Ruby, RSpec. (11 stars) |
-| <a href="https://github.com/biow0lf/omniauth-eve_online-sso">omniauth-eve_online-sso</a> | **EveOnline SSO OAuth2 Strategy for OmniAuth** |
+| <a href="https://github.com/evemonk/eve_online">eve_online</a> | **EveOnline Ruby API library for ESI.**<br>Ruby, RSpec. (11 stars) |
+| <a href="https://github.com/evemonk/omniauth-eve_online-sso">omniauth-eve_online-sso</a> | **EveOnline SSO OAuth2 Strategy for OmniAuth** |
 | <a href="https://github.com/biow0lf/spree_suppliers">spree_suppliers</a> | **Extension for Spree 1.3.x adds the ability to add suppliers to your products.** |
-| <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</a> | **Web2.0 interface for RPM database.**<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
-| <a href="https://github.com/biow0lf/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. Frontend: Backbone.<br>**Work in progress**. |
-| <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Work in progress**.<br>Ruby, Rails, PostgreSQL, RSpec. |
+| <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</a> | **Web2.0 interface for RPM database.** **Archived**<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
+| <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. Frontend: Backbone.<br>**Work in progress**. |
+| <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec. |
 
 **Updated Jan/30/2018**
