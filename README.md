@@ -42,4 +42,4 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. Frontend: Vue + Vuetify. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec. |
 
-**Updated Fab/05/2019**
+**Updated Feb/05/2019**
