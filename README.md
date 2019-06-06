@@ -12,6 +12,8 @@
 
 **LinkedIn:** https://www.linkedin.com/in/igorzubkov/
 
+**Goodreads:** https://www.goodreads.com/user/show/61423448-igor-zubkov
+
 | EDUCATION | |
 |-----------|-|
 | **_1991 – 1999_** | Donetsk High School #95 |
