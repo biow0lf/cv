@@ -30,7 +30,8 @@
 | **_2008 year – June 2013_** | **Freelancer** |
 | **_July 2013 - November 2014_** | **CloudLinux Inc.**<br>**Software Developer**<br>Building Linux distribution **CloudLinux 7**. Building ruby/python packages. Building build-system. |
 | **_May 2015 - Feb 2018_** | **MLSDev Inc.**<br>Ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch, Swagger, iOS push notification and in-app purchases.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.|
-| **_Mar 2018 - Present_** | **Rademade Inc.**<br>Ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com, app.spitche.com, monarome.com.ua |
+| **_Mar 2018 - Mar 2019_** | **Rademade Inc.**<br>Ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com, app.spitche.com, monarome.com.ua |
+| **_Mar 2019 - Jun 2019_** | **Autobooking**<br>Ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, Docker.<br>List of projects: autobooking.com |
 
 ##### Open Source
 
