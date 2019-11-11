@@ -42,7 +42,7 @@
 | <a href="https://github.com/evemonk/omniauth-eve_online-sso">omniauth-eve_online-sso</a> | **EveOnline SSO OAuth2 Strategy for OmniAuth**<br> (4 stars) |
 | <a href="https://github.com/biow0lf/spree_suppliers">spree_suppliers</a> | **Extension for Spree 1.3.x adds the ability to add suppliers to your products.** |
 | <a href="https://github.com/biow0lf/prometheus2.0">prometheus2.0</a> | **Web2.0 interface for RPM database.** **Archived**<br>Ruby, Rails, RSpec, PostgreSQL, Sphinx search engine, Redis. (43 request per minute.)<br> Deployed at: <a href="https://packages.altlinux.org/uk">here</a>. |
-| <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. ~~Frontend: Vue + Vuetify.~~ New frontend: Bootstrap 4. <br> (4 stars) |
+| <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. ~~Frontend: Vue + Vuetify.~~ New frontend: Bootstrap 4. <br> (4 stars) <br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec. |
 
 **Updated Jul/01/2019**
