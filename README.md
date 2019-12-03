@@ -32,6 +32,7 @@
 | **_May 2015 - Feb 2018_** | **MLSDev Inc.**<br>Middle ruby backend developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Redis, Elasticsearch, Swagger, iOS push notification and in-app purchases.<br>List of projects: mlsdev.com, geotourist.com, Trybz, Rockuva, Beliprint, Playable LOGO, More or less, Sqyle, Erodr, WURQ.<br>Responsibility: support ongoing projects, writing new features, writing tests, codereview, projects estimations, prototyping and developing new projects from scratch. |
 | **_Mar 2018 - Mar 2019_** | **Rademade Inc.**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com, app.spitche.com, monarome.com.ua<br>Responsibility: support ongoing projects, writing new features, writing tests, codereview, projects estimations, mentoring and presenting <a href="https://github.com/biow0lf/hanami_blog_workshop/blob/master/hanami.key">new technologies e.g. Hanami (presentation in Apple Pages)</a>. |
 | **_Mar 2019 - Jun 2019_** | **Autobooking**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: autobooking.com<br>Responsibility: support ongoing project, writing new features, writing tests, codereview, projects estimations, mentoring. |
+| **_Jul 2019 - Nov 2019_** | **Elie GmbH**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: ag-force.com<br>Responsibility: support ongoing project, writing new features, writing tests, codereview, mentoring. |
 
 ##### Open Source
 
@@ -45,4 +46,4 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. ~~Frontend: Vue + Vuetify.~~ New frontend: Bootstrap 4. <br> (4 stars) <br> Server stuff: CentOS 7. Docker with docker-compose. Redis, memcached, Elasticsearch. <br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec. |
 
-**Updated Jul/01/2019**
+**Updated Dec/03/2019**
