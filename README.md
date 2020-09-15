@@ -33,6 +33,7 @@
 | **_Mar 2018 - Mar 2019_** | **Rademade Inc.**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: rademade.com, enrollment.vaultelectricity.com, app.spitche.com, monarome.com.ua<br>Responsibility: support ongoing projects, writing new features, writing tests, codereview, projects estimations, mentoring and presenting <a href="https://github.com/biow0lf/hanami_blog_workshop/blob/master/hanami.key">new technologies e.g. Hanami (presentation in Apple Pages)</a>. |
 | **_Mar 2019 - Jun 2019_** | **Autobooking**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: autobooking.com<br>Responsibility: support ongoing project, writing new features, writing tests, codereview, projects estimations, mentoring. |
 | **_Jul 2019 - Nov 2019_** | **Elie GmbH**<br>Senior ruby developer.<br>Ruby, Ruby on Rails, PostgreSQL, RSpec, Docker.<br>List of projects: ag-force.com<br>Responsibility: support ongoing project, writing new features, writing tests, codereview, mentoring. |
+| **_Dec 2019 - now_** | **NDA**<br>Senior ruby developer.<br>Ruby, PostgreSQL, RSpec, Docker, Java.<br>Responsibility: support ongoing project, writing new features, writing tests, codereview, mentoring. |
 
 ##### Open Source
 
@@ -46,4 +47,4 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a> | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. ~~Frontend: Vue + Vuetify.~~ New frontend: Bootstrap 4. <br> (5 stars) <br> Server stuff: CentOS 7. Docker with docker-compose. Redis, memcached, Elasticsearch. <br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a> | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec. |
 
-**Updated Dec/03/2019**
+**Updated Sep/15/2020**
