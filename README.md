@@ -6,7 +6,7 @@
 
 **Phone/iMessages/Viber/Telegram:** +38-(063)-743-44-09
 
-**Irish phone:**
+**Irish phone:** 083 083 9112
 
 **E-mail:** igor.zubkov@gmail.com
 
