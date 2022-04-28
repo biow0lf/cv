@@ -4,7 +4,7 @@
 
 **Ireland**
 
-**Phone/iMessages/Viber/Telegram:** +38-(063)-743-44-09
+**Phone/iMessages/Viber/Telegram/WhatsApp:** +38-(063)-743-44-09
 
 **Irish phone:** 083 083 9112
 
