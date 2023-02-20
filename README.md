@@ -2,7 +2,7 @@
 
 ##### *Igor Zubkov*
 
-**Ireland**
+**Poland**
 
 **Phone/iMessages/Viber/Telegram/WhatsApp:** +38-(063)-743-44-09
 
@@ -47,4 +47,4 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a>                                 | **EveOnline management suite.**<br>Backend: Ruby, Rails, PostgreSQL. ~~Frontend: Vue + Vuetify.~~ New frontend: Bootstrap 5. <br> (14 stars) <br> Server stuff: CentOS 7. Docker with docker-compose plus Terraform on Kubernetes. Redis, memcached ~~, Elasticsearch~~. <br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a>                    | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec.                                                                                                                                                                                    |
 
-**Updated Dec/14/2022**
+**Updated Feb/20/2023**
