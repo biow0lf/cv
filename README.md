@@ -1,6 +1,6 @@
-# *CURRICULUM VITAE*
+# CURRICULUM VITAE
 
-## *Igor Zubkov*
+## Igor Zubkov
 
 **Poland**
 
@@ -61,7 +61,7 @@
 | **_March – May 2004_**              | **Armiro Ltd.**<br>**PHP Developer**<br>Linux, Apache, MySQL, PHP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **_October – December 2003_**       | **Ministry of Internal Affairs, Donetsk region (Ukraine)**<br>**Developer**<br>Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-### Open Source
+## Open Source
 
 | Name                                                                                     | Description                                                                                                                                                                                                                                                |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
