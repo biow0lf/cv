@@ -65,6 +65,7 @@
 
 | Name                                                                                     | Description                                                                                                                                                                                                                                                |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="">Errbit</a>                                                                    | **The open source error catcher                                                                                                                                                                                                                            |
 | <a href="https://github.com/biow0lf/evemonk-react">EveMonk on React</a>                  | **React demo**<br>React, React router, Apollo Graphql, GraphQL, Bootstrap 5.<br>Terraform, Docker, Traefik.<br>Deployed at: <a href="https://react.evemonk.com/">react.evemonk.com</a>                                                                     |
 | <a href="https://github.com/biow0lf/redmine_landing_page">redmine_landing_page<a>        | **Landing Page plugin for Redmine.**<br>Redmine. (34 stars!)                                                                                                                                                                                               |
 | <a href="https://github.com/evemonk/eve_online">eve_online</a>                           | **EveOnline Ruby API library for ESI.**<br>Ruby, RSpec. (28 stars)                                                                                                                                                                                         |
@@ -74,5 +75,13 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a>                                 | **EveOnline management suite.**<br>Ruby, Ruby on Rails, PostgreSQL, Bootstrap 5, Turbo and Stimulus.<br> (19 stars) <br> Server stuff: Debian. Docker with docker compose plus Terraform. Redis.<br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a>                    | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec.                                                                                                            |
 | <a href="https://github.com/errbit-ng/errbit-ng">Errbit-NG</a>                           | **The open source error catcher<br>Fork of Errbit. Supported.**<br>Fork from https://github.com/errbit/errbit                                                                                                                                              |
+
+## Books
+
+This is a list of books that I have read and that I recommend.
+
+| Book with author(s)                                                                                                                                                       | ISBN           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| <a href="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/">Patterns of Enterprise Application Architecture</a> by Martin Fowler. | 978-0321127426 |
 
 **Updated Mar/18/2025**
