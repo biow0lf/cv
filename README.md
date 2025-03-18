@@ -1,6 +1,6 @@
-#### *CURRICULUM VITAE*
+# *CURRICULUM VITAE*
 
-##### *Igor Zubkov*
+## *Igor Zubkov*
 
 **Poland**
 
@@ -14,10 +14,35 @@
 
 **Goodreads:** https://www.goodreads.com/user/show/61423448-igor-zubkov
 
+## Education
+
 | EDUCATION         |                                                                    |
 |-------------------|--------------------------------------------------------------------|
 | **_1991 – 1999_** | Donetsk High School #95                                            |
 | **_Summer 2006_** | **Donetsk Christian University**<br>Intensive English Program      |
+
+## My Skills Box
+
+* Ruby. From 1.8.7 to 3.4. 10+ years of experience.
+* Ruby on Rails. From 2.3 to 9.0. 10+ years of experience.
+* OOP, Patterns.
+* RSpec
+* HTML
+* CSS
+* Javascript
+* Bootstrap 3/4/5
+* SQL
+* PostgreSQL / MySQL
+* Microservices
+* Vue.js 2.x. 2 years of experience.
+* React
+* Linux
+* AWS / Heroku / Linode
+* Docker
+* Kubernetes
+* Terraform
+
+## Work Experience
 
 | WORK EXPERIENCE                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,7 +61,7 @@
 | **_March – May 2004_**              | **Armiro Ltd.**<br>**PHP Developer**<br>Linux, Apache, MySQL, PHP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **_October – December 2003_**       | **Ministry of Internal Affairs, Donetsk region (Ukraine)**<br>**Developer**<br>Oracle DB, Borland C++ Builder, MS IIS 5, developing and supporting local intranet web-services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-##### Open Source
+### Open Source
 
 | Name                                                                                     | Description                                                                                                                                                                                                                                                |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,4 +75,4 @@
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a>                    | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec.                                                                                                            |
 | <a href="https://github.com/errbit-ng/errbit-ng">Errbit-NG</a>                           | **The open source error catcher<br>Fork of Errbit. Supported.**<br>Fork from https://github.com/errbit/errbit                                                                                                                                              |
 
-**Updated Mar/17/2025**
+**Updated Mar/18/2025**
