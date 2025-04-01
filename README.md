@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-## Igor Zubkov
+## Ihor (Igor) Zubkov (he/him)
 
 **Poland**
 
@@ -86,4 +86,4 @@ This is a list of books that I have read and that I recommend. Without any order
 | <a href="https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/">Test Driven Development: By Example</a> by Kent Beck.                                                                                                                                                      | 978-0321146533 |
 | <a href="https://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/">Ruby Under a Microscope: An Illustrated Guide to Ruby Internals</a> by Pat Shaughnessy.                                                                                                          | 978-1593275273 |
 
-**Updated Mar/18/2025**
+**Updated Apr/01/2025**
