@@ -75,7 +75,7 @@
 | <a href="https://github.com/evemonk/evemonk">EveMonk</a>                                 | **EveOnline management suite.**<br>Ruby, Ruby on Rails, PostgreSQL, Bootstrap 5, Turbo and Stimulus.<br> (19 stars) <br> Server stuff: Debian. Docker with docker compose plus Terraform. Redis.<br> Deployed at: <a href="https://evemonk.com/">here</a>. |
 | <a href="https://github.com/biow0lf/stringer">Stringer. Enhanced.</a>                    | **RSS reader. Fork from https://github.com/swanson/stringer**<br>Ported from Sinatra to Rails. **Archived**.<br>Ruby, Rails, PostgreSQL, RSpec.                                                                                                            |
 
-## Books
+## My favourite technical books
 
 This is a list of books that I have read and that I recommend. Without any order.
 
