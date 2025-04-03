@@ -24,7 +24,7 @@
 ## My Skills Box
 
 * Ruby. From 1.8.7 to 3.4. 10+ years of experience.
-* Ruby on Rails. From 2.3 to 9.0. 10+ years of experience.
+* Ruby on Rails. From 2.3 to 8.0. 10+ years of experience.
 * OOP, Patterns.
 * RSpec
 * HTML
